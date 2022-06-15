@@ -1,2 +1,2 @@
 # git-tutorial
-git handson tutorial
+git hands-on tutorial 
